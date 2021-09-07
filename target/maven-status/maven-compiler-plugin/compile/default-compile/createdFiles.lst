@@ -1,0 +1,8 @@
+com\logs\logsParsing\models\Event.class
+com\logs\logsParsing\domain\EventCreator.class
+com\logs\logsParsing\utils\EventService.class
+com\logs\logsParsing\dao\EventDao.class
+com\logs\logsParsing\domain\EventDto$State.class
+com\logs\logsParsing\utils\ApplicationConfiguration.class
+com\logs\logsParsing\domain\EventDto.class
+com\logs\logsParsing\ApplicationRunner.class
